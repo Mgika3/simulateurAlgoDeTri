@@ -1,5 +1,3 @@
-"""Simulateur graphique de tris, propulsé par Pygame."""
-
 import random
 import time
 
