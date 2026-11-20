@@ -41,7 +41,7 @@ ALGORITHMS = [
     ("Bozosort", "Aléatoire . O(n.n!)", bozosort),
     ("Stalinsort", "Mère patrie . O(n)", stalinsort),
     ("Miraclesort", "t'inquiète . O(infini)", miraclesort),
-    ("hitlersort", "Pure Patrie O(n)", capitalisme_sort)
+    ("capitalismesort", "Pure Patrie O(n)", capitalisme_sort)
 ]
 
 __all__ = ["ALGORITHMS"]
